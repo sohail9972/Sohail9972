@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Images_github_Preview.png" alt="Sohail's GitHub Profile Header" width="100%"/>
+</div>
+
 # Hi there, I'm Sohail 👋
 
 Welcome to my GitHub profile! I'm a passionate developer committed to building scalable applications and solving complex problems through code. Explore my repositories to see what I've been working on.
