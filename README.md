@@ -93,6 +93,37 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building s
 
 ---
 
+## 🔬 Recent Repositories & Contributions
+
+<div align="center">
+  <a href="https://github.com/sohail9972?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Sohail9972&theme=dark" alt="Profile Repo" width="45%"/>
+  </a>
+</div>
+
+**View all my repositories:** [Click here to explore](https://github.com/sohail9972?tab=repositories)
+
+**Filter by contributions:**
+- [Contributed Repositories](https://github.com/sohail9972?tab=repositories&type=contributor)
+- [Owned Repositories](https://github.com/sohail9972?tab=repositories)
+- [Recent Activity](https://github.com/sohail9972?tab=activity)
+
+---
+
+## 💻 Contribution Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohail9972&show_icons=true&theme=dark&count_private=true&hide=contribs,prs" alt="Contribution Stats" width="450"/>
+</div>
+
+**My Contribution Statistics:**
+- 📊 Total commits across all repositories
+- 🔀 Active contributor to multiple projects
+- 🎯 Focused on quality code and best practices
+- 📈 Consistent contributor to open-source projects
+
+---
+
 ## 🏆 Achievements & Highlights
 
 - 🌟 Active open-source contributor
