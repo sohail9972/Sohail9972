@@ -93,34 +93,40 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building s
 
 ---
 
-## 🔬 Recent Repositories & Contributions
+## 🧾 Top 5 Recently Updated Repositories
+
+Here are the top 5 repositories I worked on most recently. These are the best places to start if you want to see my latest commits and active projects.
 
 <div align="center">
-  <a href="https://github.com/sohail9972?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Sohail9972&theme=dark" alt="Profile Repo" width="45%"/>
+  <a href="https://github.com/sohail9972/Sohail9972">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Sohail9972&theme=dark" alt="Sohail9972 Repo" width="45%"/>
+  </a>
+  <a href="https://github.com/sohail9972/Pipeline_initiation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Pipeline_initiation&theme=dark" alt="Pipeline_initiation Repo" width="45%"/>
   </a>
 </div>
 
-**View all my repositories:** [Click here to explore](https://github.com/sohail9972?tab=repositories)
-
-**Filter by contributions:**
-- [Contributed Repositories](https://github.com/sohail9972?tab=repositories&type=contributor)
-- [Owned Repositories](https://github.com/sohail9972?tab=repositories)
-- [Recent Activity](https://github.com/sohail9972?tab=activity)
-
----
-
-## 💻 Contribution Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohail9972&show_icons=true&theme=dark&count_private=true&hide=contribs,prs" alt="Contribution Stats" width="450"/>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/sohail9972/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Portfolio&theme=dark" alt="Portfolio Repo" width="45%"/>
+  </a>
+  <a href="https://github.com/sohail9972/AI_Agumented_Self_Healing_Test_Architeture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=AI_Agumented_Self_Healing_Test_Architeture&theme=dark" alt="AI Augmented Self Healing Test Architecture Repo" width="45%"/>
+  </a>
 </div>
 
-**My Contribution Statistics:**
-- 📊 Total commits across all repositories
-- 🔀 Active contributor to multiple projects
-- 🎯 Focused on quality code and best practices
-- 📈 Consistent contributor to open-source projects
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/sohail9972/DesktopAutomation_Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=DesktopAutomation_Calculator&theme=dark" alt="DesktopAutomation Calculator Repo" width="45%"/>
+  </a>
+</div>
+
+**Recent activity summary:**
+- `Sohail9972` — active profile README and project hub (updated May 18, 2026)
+- `Pipeline_initiation` — CI/CD and automation pipeline project (updated Apr 28, 2026)
+- `Portfolio` — personal portfolio site work (updated Apr 25, 2026)
+- `AI_Agumented_Self_Healing_Test_Architeture` — AI-driven test architecture (updated Apr 04, 2026)
+- `DesktopAutomation_Calculator` — desktop automation sample (updated Apr 01, 2026)
 
 ---
 
