@@ -93,40 +93,33 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building s
 
 ---
 
-## 🧾 Top 5 Recently Updated Repositories
+## 📌 Pinned Repositories
 
-Here are the top 5 repositories I worked on most recently. These are the best places to start if you want to see my latest commits and active projects.
+These are the top 5 repositories I’ve been working on recently — similar to GitHub pinned repos, with direct links to each project.
 
 <div align="center">
   <a href="https://github.com/sohail9972/Sohail9972">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Sohail9972&theme=dark" alt="Sohail9972 Repo" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Sohail9972&theme=dark" alt="Sohail9972 Repo" width="40%"/>
   </a>
   <a href="https://github.com/sohail9972/Pipeline_initiation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Pipeline_initiation&theme=dark" alt="Pipeline_initiation Repo" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Pipeline_initiation&theme=dark" alt="Pipeline_initiation Repo" width="40%"/>
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://github.com/sohail9972/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Portfolio&theme=dark" alt="Portfolio Repo" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=Portfolio&theme=dark" alt="Portfolio Repo" width="40%"/>
   </a>
   <a href="https://github.com/sohail9972/AI_Agumented_Self_Healing_Test_Architeture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=AI_Agumented_Self_Healing_Test_Architeture&theme=dark" alt="AI Augmented Self Healing Test Architecture Repo" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=AI_Agumented_Self_Healing_Test_Architeture&theme=dark" alt="AI Augmented Self Healing Test Architecture Repo" width="40%"/>
   </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://github.com/sohail9972/DesktopAutomation_Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=DesktopAutomation_Calculator&theme=dark" alt="DesktopAutomation Calculator Repo" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sohail9972&repo=DesktopAutomation_Calculator&theme=dark" alt="DesktopAutomation Calculator Repo" width="40%"/>
   </a>
 </div>
-
-**Recent activity summary:**
-- `Sohail9972` — active profile README and project hub (updated May 18, 2026)
-- `Pipeline_initiation` — CI/CD and automation pipeline project (updated Apr 28, 2026)
-- `Portfolio` — personal portfolio site work (updated Apr 25, 2026)
-- `AI_Agumented_Self_Healing_Test_Architeture` — AI-driven test architecture (updated Apr 04, 2026)
-- `DesktopAutomation_Calculator` — desktop automation sample (updated Apr 01, 2026)
 
 ---
 
