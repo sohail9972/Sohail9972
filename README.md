@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building s
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sohail9972&theme=radical" alt="Activity Graph" width="500"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohail9972&theme=radical" alt="Activity Graph" width="500"/>
 </div>
 
 ---
