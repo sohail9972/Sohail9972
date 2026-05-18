@@ -64,13 +64,7 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building s
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### ✅ Testing Types & Expertise
-- 🔍 **Functional Testing** – End-to-end functionality validation
-- 🔄 **Regression Testing** – Ensuring changes don't break existing features
-- 🤖 **Automation** – Automated test execution and CI/CD integration
-- 📱 **RPA** – Robotic Process Automation using Robot Framework
 
----
 
 ## 📊 GitHub Statistics
 
