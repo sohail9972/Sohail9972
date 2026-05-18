@@ -19,25 +19,56 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building s
 
 ## 💼 Tech Stack
 
-### Languages & Frameworks
+### 🔤 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases
+### 🛠️ Testing & Automation Frameworks
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%23043B02.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Robot%20Framework](https://img.shields.io/badge/robot%20framework-%23000000.svg?style=for-the-badge&logoColor=white)
+![Cucumber](https://img.shields.io/badge/cucumber-%2323D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-%2300A86B.svg?style=for-the-badge&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔗 APIs
+![REST](https://img.shields.io/badge/REST%20API-%23FF6B6B.svg?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📊 Testing & Monitoring Tools
+![JIRA](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Qmetry](https://img.shields.io/badge/qmetry-%2300A86B.svg?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Kibana](https://img.shields.io/badge/kibana-%23000000.svg?style=for-the-badge&logo=kibana&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/opensearch-%235DAA44.svg?style=for-the-badge&logo=opensearch&logoColor=white)
+
+### 🚀 CI/CD & Version Control
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🛠️ Development Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### ✅ Testing Types & Expertise
+- 🔍 **Functional Testing** – End-to-end functionality validation
+- 🔄 **Regression Testing** – Ensuring changes don't break existing features
+- 🤖 **Automation** – Automated test execution and CI/CD integration
+- 📱 **RPA** – Robotic Process Automation using Robot Framework
 
 ---
 
