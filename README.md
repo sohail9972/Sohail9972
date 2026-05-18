@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate developer committed to building s
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohail9972&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail9972&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohail9972&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail9972&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="400"/>
 </div>
 
 ---
