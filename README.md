@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Images_github_Preview.png" alt="Sohail's GitHub Profile Header" width="100%"/>
   
-  ### 📚 Still Learning & Trying to Become AI Expert 🚀
+
 </div>
 
 # Hi there, I'm Sohail 👋
