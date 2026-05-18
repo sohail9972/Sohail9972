@@ -1,21 +1,7 @@
-<div align="center" style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <img src="Images_github_Preview.png" alt="Sohail's GitHub Profile Header" width="100%" style="display: block;"/>
-  <div style="position: absolute; right: 0; top: 0; width: 45%; height: 100%; 
-    background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(0,0,0,0.7) 100%); 
-    display: flex; align-items: center; justify-content: center; border-radius: 0;">
-    <div style="text-align: center; padding: 20px; color: white;">
-      <h2 style="font-size: 24px; font-weight: bold; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
-        Still Learning 📚
-      </h2>
-      <h3 style="font-size: 20px; font-weight: 600; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
-        & Trying to Become
-      </h3>
-      <h1 style="font-size: 28px; font-weight: bold; margin: 10px 0; background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1); 
-        -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
-        AI Expert 🚀
-      </h1>
-    </div>
-  </div>
+<div align="center">
+  <img src="Images_github_Preview.png" alt="Sohail's GitHub Profile Header" width="100%"/>
+  
+  ### 📚 Still Learning & Trying to Become AI Expert 🚀
 </div>
 
 # Hi there, I'm Sohail 👋
